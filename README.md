@@ -1,6 +1,6 @@
 # New File Here
 
-'New File Here' is a miniapp that lives your Finder toolbar and simply creates a new file `untitled.md` in the current folder when clicked.
+'New File Here' is a simple miniapp that lives your Finder toolbar and creates a new file `untitled.md` in the current folder.
 
 It's the button on the left:
 
