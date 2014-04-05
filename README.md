@@ -3,7 +3,6 @@
 'New File Here' is a miniapp that lives your Finder toolbar and simply creates a new file `untitled.md` in the current folder when clicked.
 
 It's the button on the left:
-
 ![screenshot](screenshot.png)
 
 (the other apps to the right are [Open-in-Sublime](https://github.com/pketh/open-in-sublime) and [Go2Shell](http://zipzapmac.com/Go2Shell).
