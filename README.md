@@ -1,8 +1,8 @@
 # New File Here
 
-'New File Here' is a miniapp that lives your Finder toolbar and simply creates a new file `untitled.md` in the current folder when clicked.
+'New File Here' is a miniapp that lives your Finder toolbar and simply creates a new file `untitled` in the current folder when clicked.
 
-It's the button on the left:
+It's the `+` button on the left:
 
 ![screenshot](screenshot.png)
 
@@ -17,6 +17,6 @@ Also included in the zip is the source applescript file that was compiled to bui
 
 ## Thanks / Credits
 
-The code for this was simply adapted a comment in an ancient [MacWorld article](http://www.macworld.com/article/1151236/createnewfileservice.html).
+The code for this was adapted from a comment in an old [MacWorld article](http://www.macworld.com/article/1151236/createnewfileservice.html).
 
-**Hope you find this as useful as I do!**
+**Hope you find this as useful as I do**

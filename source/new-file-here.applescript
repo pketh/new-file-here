@@ -8,4 +8,4 @@ on error -- if no Finder windows use Desktop
 end try
 
 set dir to quoted form of POSIX path of currentPath
-do shell script "cd " & dir & ";touch untitled.md"
+do shell script "cd " & dir & ";touch untitled"
