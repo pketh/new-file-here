@@ -2,18 +2,12 @@
 
 'New File Here' is a small Finder toolbar app that simply creates a new file `untitled` in the current folder.
 
-It's the `+` button on the left:
-
-![screenshot](screenshot.png)
-
-(the other apps to the right are [Open-in-Sublime](https://github.com/pketh/open-in-sublime) and [Go2Shell](http://zipzapmac.com/Go2Shell).
+<img src="screenshot.png" width="477" height="101">
 
 ## Installation
 
 Download the zip, extract, and move the 'new-file-here' app to your Applications folder. Then Command-drag it to your Finder toolbar.
 Also included in the zip is the source applescript file that was compiled to build the app
-
-> If you want to edit the icon, the psd is in the repo. Edit it, convert it to icns and assign it to the app. If it's really nice, feel free to send a pull request :)
 
 ## Thanks / Credits
 
